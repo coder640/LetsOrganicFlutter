@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ccec960-3645-4093-8378-9a4502fe7a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/LetsOrganic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fstore_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/bakery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/ban20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/barcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/cards.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/dairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/drinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/eggs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/foodcupboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/free from range.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/fresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/frozen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/grid4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/licon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/newcard.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/ss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/sss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/straw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/tlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/vegan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\92348\.android\avd\Pixel_2_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25sLl1Yz5qpCcvAySU8sjX0X1WA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --signingreport" />
+      <command value="gradle--signingReport" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.android">
+    <configuration name="android" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--signingreport" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlew" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.gradlew" />
+        <item itemvalue="Gradle.android" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ccec960-3645-4093-8378-9a4502fe7a59" name="Default Changelist" comment="" />
+      <created>1646310995309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646310995309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
