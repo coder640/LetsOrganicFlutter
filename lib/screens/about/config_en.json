@@ -1,0 +1,442 @@
+{
+  "HorizonLayout": [
+    {
+      "borderInput": false,
+      "marginLeft": 30,
+      "textOpacity": 1,
+      "type": "static",
+      "rotate": [],
+      "layout": "header_text",
+      "paddingBottom": 0,
+      "fontSize": 25,
+      "height": 65,
+      "marginBottom": 0,
+      "usePrimaryColor": true,
+      "marginTop": 0,
+      "paddingLeft": 5,
+      "alignment": "centerLeft",
+      "marginRight": 18,
+      "paddingRight": 15,
+      "paddingTop": 0,
+      "showSearch": true,
+      "fontWeight": 700,
+      "title": "Our Biggest Hits",
+      "isSafeArea": false
+    },
+    {
+      "parallax": false,
+      "showNumber": false,
+      "isHorizontal": false,
+      "fit": "cover",
+      "marginBottom": 0,
+      "isSlider": true,
+      "design": "stack",
+      "marginLeft": 7.000000000000001,
+      "items": [
+        {
+          "products": [],
+          "defaultShowProduct": false,
+          "image": "https://trello.com/1/cards/6333e1a7f7e2d001c5e11c73/attachments/6333e1a7f7e2d001c5e11c9c/download/Lets_Organic_Market_logoo-01_2__1.png",
+          "showSubcategory": false,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5MjUyNzM0MTczMQ==",
+          "bannerWithProduct": false
+        },
+        {
+          "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png",
+          "showSubcategory": false,
+          "products": [],
+          "defaultShowProduct": false,
+          "bannerWithProduct": false
+        },
+        {
+          "products": [],
+          "defaultShowProduct": false,
+          "showSubcategory": false,
+          "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png",
+          "bannerWithProduct": false
+        }
+      ],
+      "radius": 14.3,
+      "showBackground": true,
+      "intervalTime": 6,
+      "enableParallax": false,
+      "parallaxImageRatio": 1.2,
+      "layout": "bannerImage",
+      "padding": 9.9,
+      "marginRight": 6.6,
+      "marginTop": 0,
+      "autoPlay": true,
+      "upHeight": 0,
+      "isBlur": true
+    },
+    {
+      "textOpacity": 0.5,
+      "layout": "header_text",
+      "title": "Category",
+      "showSearch": false,
+      "fontSize": 20,
+      "marginLeft": 24,
+      "marginBottom": 0,
+      "marginTop": 19,
+      "marginRight": 0,
+      "hideHeader": false,
+      "textColor": null,
+      "fontWeight": "400",
+      "height": 20
+    },
+    {
+      "radius": 0,
+      "showShortDescription": true,
+      "labelFontSize": 14,
+      "imageBorderStyle": "solid",
+      "border": 1,
+      "type": "image",
+      "layout": "category",
+      "paddingY": 8,
+      "items": [
+        {
+          "image": "https://images.unsplash.com/photo-1498480086004-2400bd8c3663?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=80",
+          "showText": false
+        },
+        {
+          "showText": false,
+          "image": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+        },
+        {
+          "showText": false,
+          "image": "https://images.unsplash.com/photo-1528865832260-267768cb76ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+        }
+      ],
+      "imageSpacing": 0,
+      "spacing": 12,
+      "marginTop": 10,
+      "textAlignment": "topLeft",
+      "marginY": 8,
+      "boxShadow": {
+        "blurRadius": 8.080808080808081,
+        "y": 3,
+        "x": 3,
+        "colorOpacity": 0.24
+      },
+      "enableBorder": true,
+      "noBackground": false,
+      "marginBottom": 10,
+      "marginLeft": 10,
+      "imageBoxFit": "fitWidth",
+      "size": 0.1,
+      "itemSize": {
+        "width": 600,
+        "height": 172.93265614865143
+      },
+      "marginRight": 10,
+      "paddingX": 4,
+      "marginX": 4,
+      "wrap": false,
+      "line": false,
+      "imageBorderWidth": 0,
+      "hideTitle": false
+    },
+    {
+      "layout": "twoColumn",
+      "hPadding": 7,
+      "showCartButton": false,
+      "onSale": false,
+      "parallaxImageRatio": 2.1624999999999996,
+      "isSnapping": false,
+      "enableRating": true,
+      "hideEmptyProductListRating": false,
+      "rows": 1,
+      "cardDesign": "card",
+      "showCountDown": false,
+      "showCartIconColor": false,
+      "vPadding": 1,
+      "image": "",
+      "showCartIcon": true,
+      "showOnlyImage": false,
+      "borderRadius": 12,
+      "showQuantity": false,
+      "hMargin": 8,
+      "showCartButtonWithQuantity": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5MjUyNzM0MTczMQ==",
+      "imageRatio": 1,
+      "parallax": true,
+      "featured": false,
+      "cartIconRadius": 20,
+      "imageBoxfit": "contain",
+      "hideStore": false,
+      "enableBottomAddToCart": false,
+      "backgroundRadius": 10,
+      "name": "Meat & Sea Food",
+      "showHeart": false,
+      "vMargin": 7,
+      "showStockStatus": true,
+      "boxShadow": {
+        "colorOpacity": 0.1,
+        "spreadRadius": 10,
+        "blurRadius": 12.121212121212121,
+        "y": 8,
+        "x": 7
+      },
+      "hidePrice": false,
+      "columns": 0,
+      "hideTitle": false
+    },
+    {
+      "name": "Fresh Produce",
+      "parallaxImageRatio": 1.2,
+      "showCartIconColor": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5MjUzMTQwNDk2Mw==",
+      "showQuantity": false,
+      "enableRating": true,
+      "cardDesign": "card",
+      "backgroundRadius": 10.0,
+      "showCartButton": false,
+      "isSnapping": false,
+      "hideEmptyProductListRating": false,
+      "borderRadius": 12.0,
+      "showCartButtonWithQuantity": false,
+      "showOnlyImage": false,
+      "columns": 0,
+      "rows": 1,
+      "hPadding": 7.0,
+      "parallax": true,
+      "hidePrice": false,
+      "showCountDown": false,
+      "imageRatio": 1.0,
+      "vPadding": 1.0,
+      "image": "",
+      "hMargin": 8.0,
+      "hideTitle": false,
+      "featured": false,
+      "showStockStatus": true,
+      "imageBoxfit": "contain",
+      "cartIconRadius": 20.0,
+      "vMargin": 7.0,
+      "showCartIcon": true,
+      "hideStore": false,
+      "enableBottomAddToCart": true,
+      "showHeart": true,
+      "layout": "twoColumn",
+      "boxShadow": {
+        "blurRadius": 14.14141414141414,
+        "colorOpacity": 0.1,
+        "spreadRadius": 10.0,
+        "x": 7.0,
+        "y": 8.0
+      },
+      "onSale": false
+    }
+  ],
+  "Setting": {
+    "FontHeader": "ABeeZee",
+    "TabBarConfig": {
+      "TabBarFloating": {
+        "floatingType": "rectangle",
+        "width": null,
+        "position": 0,
+        "elevation": null,
+        "color": null,
+        "height": null,
+        "radius": null,
+        "location": null
+      },
+      "paddingTop": 0,
+      "colorActiveIcon": null,
+      "iconSize": 22,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "radiusTopLeft": 0,
+      "showFloatingClip": true,
+      "indicatorStyle": null,
+      "paddingBottom": 0,
+      "radiusTopRight": 0,
+      "radiusBottomRight": 0,
+      "marginLeft": 0,
+      "paddingLeft": 0,
+      "radiusBottomLeft": 0,
+      "showFloating": false,
+      "TabBarIndicator": {
+        "height": null,
+        "topRightRadius": null,
+        "horizontalPadding": null,
+        "paintingStyle": "fill",
+        "color": null,
+        "topLeftRadius": null,
+        "distanceFromCenter": null,
+        "bottomLeftRadius": null,
+        "bottomRightRadius": null,
+        "radius": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "tabPosition": "bottom"
+      },
+      "isSafeArea": true,
+      "marginRight": 0,
+      "colorCart": null,
+      "colorIcon": null,
+      "color": null,
+      "paddingRight": 0
+    },
+    "ProductListLayout": "list",
+    "MainColor": "#3FC1BE",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "icon": "home"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "categoryLayout": "card",
+      "pos": 200
+    },
+    {
+      "pos": 300,
+      "size": 24,
+      "fontFamily": "CupertinoIcons",
+      "layout": "search",
+      "icon": "search"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "cart",
+      "layout": "cart",
+      "pos": 400,
+      "icon": "bag"
+    },
+    {
+      "layout": "profile",
+      "pos": 500,
+      "icon": "person",
+      "fontFamily": "CupertinoIcons"
+    }
+  ],
+  "Drawer": {
+    "zoomConfig": {
+      "angle": 0,
+      "style": "3Dout",
+      "enableShadow": true,
+      "mainScreenScale": 0.3,
+      "slideMargin": 0,
+      "slideWidth": 0.65,
+      "borderRadius": 16,
+      "backgroundImage": null
+    },
+    "logoConfig": {
+      "marginLeft": 5,
+      "boxFit": "cover",
+      "height": 38,
+      "marginBottom": 10,
+      "marginRight": 0,
+      "marginTop": 60
+    },
+    "subDrawerItem": {
+    },
+    "logo": "assets/images/logo.png",
+    "key": "mcpctmd08d",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "profile"
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": false,
+        "type": "category"
+      },
+      {
+        "show": true,
+        "type": "categories"
+      },
+      {
+        "type": "cart",
+        "show": false
+      },
+      {
+        "show": false,
+        "type": "web"
+      }
+    ],
+    "filter": 0,
+    "safeArea": false
+  },
+  "AppBar": {
+    "alwaysShowAppBar": false,
+    "pinned": true,
+    "showOnScreens": [
+      "home"
+    ],
+    "items": [
+      {
+        "marginBottom": 4,
+        "fontFamily": "CupertinoIcons",
+        "fontSize": 16,
+        "paddingTop": 4,
+        "radius": 18,
+        "size": 40,
+        "backgroundColor": "#04000000",
+        "marginRight": 4,
+        "marginLeft": 16,
+        "key": "bbgvsc7v9i",
+        "icon": "circle_grid_3x3_fill",
+        "paddingLeft": 4,
+        "paddingRight": 4,
+        "paddingBottom": 4,
+        "marginTop": 4,
+        "alignment": "center",
+        "action": "menu",
+        "textOpacity": 0.5,
+        "fontWeight": "400",
+        "iconSize": 18,
+        "type": "icon",
+        "pos": 100
+      },
+      {
+        "key": "gvibbsc7v9",
+        "paddingRight": 4,
+        "pos": 200,
+        "paddingTop": 4,
+        "action": "location",
+        "fontFamily": "CupertinoIcons",
+        "marginBottom": 4,
+        "icon": "location",
+        "paddingLeft": 4,
+        "textOpacity": 0.8,
+        "marginRight": 16,
+        "paddingBottom": 4,
+        "radius": 16,
+        "iconSize": 24,
+        "title": "DELIVERY TO",
+        "type": "location",
+        "size": 20,
+        "backgroundColor": "#00000000",
+        "marginLeft": 4,
+        "marginTop": 4,
+        "fontWeight": "500",
+        "fontSize": 18,
+        "alignment": "left"
+      }
+    ],
+    "floating": true,
+    "enable": true,
+    "snap": true,
+    "elevation": 0
+  }
+}
